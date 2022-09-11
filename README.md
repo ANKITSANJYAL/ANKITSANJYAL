@@ -44,7 +44,7 @@ Management Skills :
 
 - :seedling: Interested in Data Science and AI
 
-- :zap: In my free time, I solve read science fiction books , listen to the music and solve machine learning problems.
+- :zap: In my free time, I solve read books , listen to the music and solve machine learning problems.
 
 
 
