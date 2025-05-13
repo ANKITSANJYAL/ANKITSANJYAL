@@ -52,6 +52,13 @@ I'm **Ankit Sanjyal**, a Data Science graduate passionate about transforming raw
 
 ### 🔥 Highlight Projects
 
+[![📘 No-Propagation MNIST](![image](https://github.com/user-attachments/assets/feb189ea-346d-4f18-b08a-ff7cf8fbf8b2))](https://github.com/ANKITSANJYAL/NoPropagation)  
+- Implemented a **backpropagation-free learning algorithm** from a recent Oxford research paper  
+- Trained a deep neural network using **layer-wise local targets** and **diffusion-based denoising**  
+- Achieved **99% test accuracy on MNIST** with no gradient flow between layers  
+- Built a fully modular pipeline using PyTorch: supports **sample reuse**, cosine noise scheduling, and decoupled block training  
+- Demonstrated my ability to **translate research into scalable, production-grade code**
+  
 [![AI-Generated Image Classifier](https://img.shields.io/badge/🖼️_AI_Generated_Image_Classifier-FF6B6B?style=for-the-badge)](https://github.com/ANKITSANJYAL/ai-image-classifier)
 - Built CNN model achieving 95% accuracy in detecting AI-generated images
 - Implemented data augmentation and transfer learning techniques
@@ -59,10 +66,6 @@ I'm **Ankit Sanjyal**, a Data Science graduate passionate about transforming raw
 [![Customer Churn Prediction](https://img.shields.io/badge/📈_Customer_Churn_Prediction-4ECDC4?style=for-the-badge)](https://github.com/ANKITSANJYAL/churn-prediction)
 - Developed ensemble model with 89% recall saving $2M in potential revenue loss
 - Created interactive dashboard for business stakeholders
-
-[![Real-time Sentiment Analysis](https://img.shields.io/badge/💬_Real_time_Sentiment_Analysis-FFBE0B?style=for-the-badge)](https://github.com/ANKITSANJYAL/sentiment-analysis)
-- Deployed NLP pipeline processing 10K+ tweets/minute using BERT and Flask
-- Reduced sentiment misclassification by 40% compared to previous solutions
 
 ---
 
