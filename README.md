@@ -52,7 +52,7 @@ I'm **Ankit Sanjyal**, a Data Science graduate passionate about transforming raw
 
 ### 🔥 Highlight Projects
 
-[![📘 No-Propagation MNIST](![image](https://github.com/user-attachments/assets/feb189ea-346d-4f18-b08a-ff7cf8fbf8b2))](https://github.com/ANKITSANJYAL/NoPropagation)  
+[![📘 No-Propagation MNIST](https://img.shields.io/badge/📘_NoPropagation_MNIST-5C7AEA?style=for-the-badge)](https://github.com/ANKITSANJYAL/NoPropagation/)  
 - Implemented a **backpropagation-free learning algorithm** from a recent Oxford research paper  
 - Trained a deep neural network using **layer-wise local targets** and **diffusion-based denoising**  
 - Achieved **99% test accuracy on MNIST** with no gradient flow between layers  
