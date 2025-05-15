@@ -60,13 +60,13 @@ I'm **Ankit Sanjyal**, a Data Science graduate passionate about transforming raw
 - Demonstrated my ability to **translate research into scalable, production-grade code**
   
 [![MAESTRO: Multi-Agent AI for Scripted Text-to-Video Generation
-](https://img.shields.io/badge/🖼️_MAESTRO-FF6B6B?style=for-the-badge)]((https://github.com/Fordham-EDM-Lab/MAESTRO))
+](https://img.shields.io/badge/🖼️_MAESTRO-FF6B6B?style=for-the-badge)](https://github.com/Fordham-EDM-Lab/MAESTRO)
 - Built a multi-agent system that converts lecture PDFs into narrated videos using image captioning, script generation, and voice synthesis agents.
 - Integrated Play.ht and OpenAI APIs for personalized voice cloning and contextual video narration.
 - Stored and retrieved videos via MongoDB GridFS with chatbot-based Q&A over script embeddings using LangChain.
 
 
-[![Skin Disease Detection](https://img.shields.io/badge/📈SkinLesionDetection-4ECDC4?style=for-the-badge)]((https://github.com/ANKITSANJYAL/SkinDisease))
+[![Skin Disease Detection](https://img.shields.io/badge/📈SkinLesionDetection-4ECDC4?style=for-the-badge)](https://github.com/ANKITSANJYAL/SkinDisease)
 - Built an ensemble of fine-tuned CNN models (Inception V3, Inception V2, DenseNet201) for multi-class skin lesion classification.
 - Achieved 85.59% validation accuracy and 83.93% test accuracy using selective top-layer training and architecture fusion.
 - Tested on the HAM10000 dataset with performance evaluation, training curves, and comparative analysis.
