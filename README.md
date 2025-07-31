@@ -49,21 +49,14 @@ Proposed Local Prompt Adaptation (LPA), a training-free method for injecting con
 
 ### 🚀 Featured Projects
 
-#### [📘 No-Propagation Diffusion Transformer](https://github.com/ANKITSANJYAL/NoPropagation)  
+#### [No-Propagation Diffusion Transformer](https://github.com/ANKITSANJYAL/NoPropagation)  
 Reimplemented Oxford's NoPropDT model using layer-wise local denoising blocks (no backprop) and achieved 99% test accuracy on MNIST. Modular PyTorch pipeline supports sample reuse, cosine schedules, and extension to CIFAR.
 
-#### [🎬 MAESTRO: AI Video Generation Platform](https://github.com/Fordham-EDM-Lab/MAESTRO)  
+#### [ MAESTRO: AI Video Generation Platform](https://github.com/Fordham-EDM-Lab/MAESTRO)  
 Developed a text-to-video generation system using OpenAI (script), Play.ht (voice), and FFmpeg (rendering), with dual pipelines for PDF lectures and prompt-based generation. Integrated RAG-powered chatbots and user-facing professor/student apps.
 
-#### [🩺 Skin Disease Classification (HAM10000)](https://github.com/ANKITSANJYAL/SkinDisease)  
+#### [Skin Disease Classification (HAM10000)](https://github.com/ANKITSANJYAL/SkinDisease)  
 Benchmarked VGG, Inception, and DenseNet models on 7-class skin lesion classification task, achieving 83.9% test accuracy with an ensemble-based pipeline and detailed EDA/metric analysis.
-
----
-
-### ✍️ Blog Articles
-
-- 📖 [Understanding CNN Architectures](https://medium.com/@yourusername/understanding-cnn-architectures-for-image-classification)  
-- ⚙️ [Hyperparameter Tuning with Optuna](https://medium.com/@yourusername/hyperparameter-tuning-with-optuna)
 
 ---
 
@@ -79,6 +72,6 @@ Benchmarked VGG, Inception, and DenseNet models on 7-class skin lesion classific
 
 ### 📫 Reach Out
 
-I'm open to research collaborations, internships, and applied AI projects. Feel free to connect!
+I'm open to research collaborations,full time roles, internships, and applied AI projects. Feel free to connect!
 
 ---
